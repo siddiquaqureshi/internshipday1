@@ -1,8 +1,13 @@
-body {
-    font-family: Arial;
-    padding: 20px;
+body{
+    background-color: yellow;
 }
 
-h1 {
-    color: rgb(134, 7, 126);
+h1{
+    color: red;
+}
+
+.card-container {
+    background-color: blue;
+    color: white;
+    padding: 20px;
 }
