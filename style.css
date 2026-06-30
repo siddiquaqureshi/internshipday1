@@ -1,13 +1,8 @@
-body{
-    background-color: yellow;
-}
-
-h1{
-    color: red;
-}
-
-.card-container {
-    background-color: blue;
-    color: white;
+body {
+    font-family: Arial;
     padding: 20px;
+}
+
+h1 {
+    color: rgb(134, 7, 126);
 }

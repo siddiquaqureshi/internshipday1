@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    color: red;
+}
+
+.card-container {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
